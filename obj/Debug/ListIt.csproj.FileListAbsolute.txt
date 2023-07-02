@@ -1,0 +1,14 @@
+C:\Users\Bruna\Desktop\ListIt\bin\Debug\ListIt.exe.config
+C:\Users\Bruna\Desktop\ListIt\bin\Debug\ListIt.exe
+C:\Users\Bruna\Desktop\ListIt\bin\Debug\ListIt.pdb
+C:\Users\Bruna\Desktop\ListIt\bin\Debug\Guna.UI.dll
+C:\Users\Bruna\Desktop\ListIt\obj\Debug\ListIt.csproj.AssemblyReference.cache
+C:\Users\Bruna\Desktop\ListIt\obj\Debug\ListIt.frm_cadastroTarefas.resources
+C:\Users\Bruna\Desktop\ListIt\obj\Debug\ListIt.Properties.Resources.resources
+C:\Users\Bruna\Desktop\ListIt\obj\Debug\ListIt.csproj.GenerateResource.cache
+C:\Users\Bruna\Desktop\ListIt\obj\Debug\ListIt.csproj.CoreCompileInputs.cache
+C:\Users\Bruna\Desktop\ListIt\obj\Debug\ListIt.csproj.CopyComplete
+C:\Users\Bruna\Desktop\ListIt\obj\Debug\ListIt.exe
+C:\Users\Bruna\Desktop\ListIt\obj\Debug\ListIt.pdb
+C:\Users\Bruna\Desktop\ListIt\obj\Debug\ListIt.frm_login.resources
+C:\Users\Bruna\Desktop\ListIt\obj\Debug\ListIt.frm_cadastroUsuario.resources
